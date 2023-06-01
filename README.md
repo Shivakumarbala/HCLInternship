@@ -1,1 +1,1 @@
-# HCLInternship
+# Online quiz application
